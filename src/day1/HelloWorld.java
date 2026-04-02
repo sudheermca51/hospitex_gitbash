@@ -8,7 +8,7 @@ public class HelloWorld {
 //			20 is a value
 //			int is a data type
 			
-		    int x=40;
+		    int x=50;
 			System.out.println("############################Hello, World!");
 			System.out.println(x);
 			System.out.println(x);
